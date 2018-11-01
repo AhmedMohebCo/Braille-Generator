@@ -1,0 +1,10 @@
+c:\users\ahmed\documents\visual studio 2015\Projects\Braille - NLP\Braille - NLP\bin\Debug\Braille - NLP.exe.config
+C:\Users\Ahmed\documents\visual studio 2015\Projects\Braille - NLP\Braille - NLP\obj\Debug\Braille - NLP.csprojResolveAssemblyReference.cache
+C:\Users\Ahmed\documents\visual studio 2015\Projects\Braille - NLP\Braille - NLP\obj\Debug\Braille___NLP.Home.resources
+C:\Users\Ahmed\documents\visual studio 2015\Projects\Braille - NLP\Braille - NLP\obj\Debug\Braille___NLP.Properties.Resources.resources
+C:\Users\Ahmed\documents\visual studio 2015\Projects\Braille - NLP\Braille - NLP\obj\Debug\Braille - NLP.csproj.GenerateResource.Cache
+C:\Users\Ahmed\documents\visual studio 2015\Projects\Braille - NLP\Braille - NLP\bin\Debug\Braille - NLP.exe
+C:\Users\Ahmed\documents\visual studio 2015\Projects\Braille - NLP\Braille - NLP\bin\Debug\Braille - NLP.pdb
+C:\Users\Ahmed\documents\visual studio 2015\Projects\Braille - NLP\Braille - NLP\obj\Debug\Braille - NLP.exe
+C:\Users\Ahmed\documents\visual studio 2015\Projects\Braille - NLP\Braille - NLP\obj\Debug\Braille - NLP.pdb
+C:\Users\Ahmed\documents\visual studio 2015\Projects\Braille - NLP\Braille - NLP\obj\Debug\Braille___NLP.AboutUs.resources
